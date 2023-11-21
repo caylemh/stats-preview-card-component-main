@@ -4,9 +4,8 @@
 #####################################################
 *.sketch
 *.fig
+*.md
 design/
-/style-guide.md
-/README-template.md
 
 # Avoid accidental XD upload if you convert the design file
 ###############################################
